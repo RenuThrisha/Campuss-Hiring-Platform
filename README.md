@@ -1,5 +1,3 @@
-# Campuss-Hiring-Platform
-A full-stack Campus Hiring Platform that streamlines the campus recruitment process with role-based access, job management, application tracking, and placement workflows.
 # Campus Hiring Platform
 
 This project is a full-stack campus hiring platform designed to bridge the gap between students, colleges, and recruiters. It provides a centralized environment where students can build their professional profiles, share their experiences, and discover career opportunities. Companies can use the platform to publish job openings, manage applications, and connect with talented candidates from colleges. Colleges can monitor approvals, and support the hiring ecosystem in a structured way.
@@ -19,6 +17,11 @@ The goal of this platform is to make campus recruitment easier, faster, and more
 - Node.js 18+
 - MongoDB running locally (or a reachable MongoDB URI)
 - npm
+
+## Tech Stack
+Frontend-React.js
+Backend-Node.js
+
 
 ## Backend setup
 1. Open the backend folder.
